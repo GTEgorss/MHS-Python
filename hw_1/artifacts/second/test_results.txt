@@ -1,0 +1,141 @@
+1)
+----------------------
+python hw_1/second.py hw_1/artifacts/second/test_files/empty.txt
+----------------------
+
+Output:
+----------------------
+<empty string>
+
+2)
+----------------------
+python hw_1/second.py hw_1/artifacts/second/test_files/8_lines.txt
+----------------------
+
+Output:
+----------------------
+sergeev
+    egor
+        dmitrievich
+            GTEgorss
+                MHS
+                    ITMO
+                        ! ! !
+                        @   !
+----------------------
+
+
+3)
+----------------------
+python hw_1/second.py hw_1/artifacts/second/test_files/15_lines.txt
+----------------------
+
+Output:
+----------------------
+
+
+ut tincidunt orci volutpat. Proin sagittis sodales rutrum. Cras auctor orci
+enim. Vivamus in fermentum est. Fusce eu mi ac orci elementum commodo at nec sem. Proin vulputate elementum dignissim. Nulla id nisl
+sed massa tristique vehicula. Aliquam finibus dui a turpis commodo,
+
+
+nec vulputate ante ornare. Ut urna ligula, molestie a euismod eget,
+iaculis eget ipsum. Aenean vulputate convallis velit ut laoreet.
+Nullam rutrum dolor nec ex interdum, a auctor lectus maximus.
+----------------------
+
+
+4)
+----------------------
+python hw_1/second.py hw_1/artifacts/second/test_files/8_lines.txt \
+> hw_1/artifacts/second/test_files/15_lines.txt \
+> hw_1/artifacts/second/test_files/20_lines.txt \
+> hw_1/artifacts/second/test_files/empty.txt
+----------------------
+
+Output:
+----------------------
+==> chw_1/artifacts/second/test_files/8_lines.txt <==
+sergeev
+    egor
+        dmitrievich
+            GTEgorss
+                MHS
+                    ITMO
+                        ! ! !
+                        @   !
+==> chw_1/artifacts/second/test_files/15_lines.txt <==
+
+
+ut tincidunt orci volutpat. Proin sagittis sodales rutrum. Cras auctor orci
+enim. Vivamus in fermentum est. Fusce eu mi ac orci elementum commodo at nec sem. Proin vulputate elementum dignissim. Nulla id nisl
+sed massa tristique vehicula. Aliquam finibus dui a turpis commodo,
+
+
+nec vulputate ante ornare. Ut urna ligula, molestie a euismod eget,
+iaculis eget ipsum. Aenean vulputate convallis velit ut laoreet.
+Nullam rutrum dolor nec ex interdum, a auctor lectus maximus.
+==> chw_1/artifacts/second/test_files/20_lines.txt <==
+aksdalkd
+
+
+kdad    lklad
+a           a    a a
+lol     lol
+a
+b
+c
+d
+==> chw_1/artifacts/second/test_files/empty.txt <==
+----------------------
+
+
+5)
+----------------------
+python hw_1/second.py
+----------------------
+
+Input:
+----------------------
+AAAalkdm a;sdlkmaldkm
+BBBdnakld asldkmad
+CCCkdmadl asldkmadl
+DDDmsd aldkm alsdkm
+EEEml asdlkm asdlkm
+FFFadoieq qeqoeqe
+GGGijqwdkasndaknwd
+HHHj qeoj       oiejqoeiq
+
+
+aksdalkd
+
+
+kdad    lklad
+a           a    a a
+lol     lol
+a
+b
+c
+d
+----------------------
+
+Output:
+----------------------
+DDDmsd aldkm alsdkm
+EEEml asdlkm asdlkm
+FFFadoieq qeqoeqe
+GGGijqwdkasndaknwd
+HHHj qeoj       oiejqoeiq
+
+
+aksdalkd
+
+
+kdad    lklad
+a           a    a a
+lol     lol
+a
+b
+c
+d
+----------------------
