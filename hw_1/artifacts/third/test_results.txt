@@ -1,0 +1,29 @@
+1)
+python hw_1/third.py hw_1/artifacts/third/test_files/0_lines_0_words_0_characters.txt \
+> hw_1/artifacts/third/test_files/0_lines_2_words_8_letters.txt \
+> hw_1/artifacts/third/test_files/1_line_2_words_8_letters.txt \
+> hw_1/artifacts/third/test_files/3_lines_4_words_19_characters.txt
+
+Output:
+0 0 0 hw_1/artifacts/third/test_files/0_lines_0_words_0_characters.txt
+0 2 8 hw_1/artifacts/third/test_files/0_lines_2_words_8_letters.txt
+1 2 9 hw_1/artifacts/third/test_files/1_line_2_words_8_letters.txt
+2 4 19 hw_1/artifacts/third/test_files/3_lines_4_words_19_characters.txt
+
+2)
+python hw_1/third.py hw_1/artifacts/third/test_files/3_lines_4_words_19_characters.txt
+
+Output:
+2 4 19 hw_1/artifacts/third/test_files/3_lines_4_words_19_characters.txt
+
+3)
+python hw_1/third.py
+
+Input:
+egor
+    !
+ser geev
+EOF
+
+Output:
+3 4 20
