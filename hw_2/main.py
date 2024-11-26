@@ -3,14 +3,17 @@ import os.path
 import subprocess
 
 
-def generate_pdf_from_tex(tex_file_path):
+def generate_pdf_from_tex(tex_file_path, output_dir):
     try:
         if not os.path.isfile(tex_file_path):
             raise FileNotFoundError(f"The file {tex_file_path} does not exist.")
 
-        print()
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+
+        print("Started creating PDF...")
         result = subprocess.run(
-            ["pdflatex", tex_file_path],
+            ["pdflatex", f"-output-directory={output_dir}", tex_file_path],
             capture_output=True,
             text=True
         )
@@ -41,4 +44,5 @@ if __name__ == '__main__':
     data_list = [table, img]
     generate_latex_file(file_path, data_list, True)
 
-    generate_pdf_from_tex(file_path)
+    output_dir = "output"
+    generate_pdf_from_tex(file_path, output_dir)

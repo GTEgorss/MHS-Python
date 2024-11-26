@@ -27,17 +27,14 @@ files = [
 
 [[package]]
 name = "gtegorsslatex"
-version = "0.1.0"
-description = ""
+version = "1.0.1"
+description = "MHS-Python-HW2-LaTeX"
 optional = false
-python-versions = ">=3.12,<4.0"
+python-versions = ">=3.12"
 files = [
-    {file = "gtegorsslatex-0.1.0-py3-none-any.whl", hash = "sha256:6a17653c644d6ad47912022c759dd4d4e1a9027667b0ebb5379b27ac2f03a201"},
-    {file = "gtegorsslatex-0.1.0.tar.gz", hash = "sha256:13ae05aa6d2fe450617b03c77638cb5529235c6296fd82f8a6dafb031ad42111"},
+    {file = "gtegorsslatex-1.0.1-py3-none-any.whl", hash = "sha256:a433d0324e44bdaa1f620a03afbb04b4f10877f7b0b0f1ff6f421b30079a36da"},
+    {file = "gtegorsslatex-1.0.1.tar.gz", hash = "sha256:7eee10b75555469e4de1d2ff06104d9a0e1fc89a39b25b6764cb637c5b79fab9"},
 ]
-
-[package.dependencies]
-setuptools = ">=75.6.0,<76.0.0"
 
 [package.source]
 type = "legacy"
@@ -67,4 +64,4 @@ type = ["importlib_metadata (>=7.0.2)", "jaraco.develop (>=7.21)", "mypy (>=1.12
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "8160c37a4302df7be80f76fc3cbcda77941fe2af0a639bcc2ae0050b025897e0"
+content-hash = "984d38e3deda64de1ddb832fba6bda2722ea0d5335917ba4209d24727770206c"

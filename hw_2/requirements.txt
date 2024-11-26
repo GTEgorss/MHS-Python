@@ -1,0 +1,4 @@
+--extra-index-url https://test.pypi.org/simple
+
+gtegorsslatex==1.0.1 ; python_version >= "3.12" and python_version < "4.0"
+setuptools==75.6.0 ; python_version >= "3.12" and python_version < "4.0"

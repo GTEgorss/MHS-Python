@@ -10,7 +10,7 @@ readme = "README.md"
 python = "^3.12"
 click = "^8.1.7"
 setuptools = "^75.6.0"
-gtegorsslatex = {version = "^0.1.0", source = "testpypi"}
+gtegorsslatex = {version = "^1.0.1", source = "testpypi"}
 
 
 [build-system]
