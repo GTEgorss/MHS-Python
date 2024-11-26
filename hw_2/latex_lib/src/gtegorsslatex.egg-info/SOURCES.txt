@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/gtegorsslatex/__init__.py
+src/gtegorsslatex/latex_lib.py
+src/gtegorsslatex.egg-info/PKG-INFO
+src/gtegorsslatex.egg-info/SOURCES.txt
+src/gtegorsslatex.egg-info/dependency_links.txt
+src/gtegorsslatex.egg-info/top_level.txt
