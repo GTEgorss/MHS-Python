@@ -11,6 +11,7 @@ python = "^3.12"
 click = "^8.1.7"
 setuptools = "^75.6.0"
 gtegorsslatex = {version = "^1.0.1", source = "testpypi"}
+numpy = "^2.1.3"
 
 
 [build-system]
