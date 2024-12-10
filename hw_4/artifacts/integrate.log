@@ -1,0 +1,608 @@
+2024-12-11 02:09:44 - CRITICAL - Begin threads: 1 jobs
+2024-12-11 02:09:44 - INFO - -->Thread id: 6112735232. From 0.00 to 1.57
+2024-12-11 02:09:44 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:44 - CRITICAL - End threads. 1 jobs. 0.59 seconds.
+2024-12-11 02:09:44 - CRITICAL - Begin processors: 1 jobs
+2024-12-11 02:09:44 - INFO - -->Thread id: 8125128384. From 0.00 to 1.57
+2024-12-11 02:09:45 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:45 - CRITICAL - End processors. 1 jobs. 0.62 seconds.
+2024-12-11 02:09:45 - CRITICAL - Begin threads: 2 jobs
+2024-12-11 02:09:45 - INFO - -->Thread id: 6112735232. From 0.00 to 0.79
+2024-12-11 02:09:45 - INFO - -->Thread id: 6129561600. From 0.79 to 1.57
+2024-12-11 02:09:45 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:46 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:46 - CRITICAL - End threads. 2 jobs. 0.58 seconds.
+2024-12-11 02:09:46 - CRITICAL - Begin processors: 2 jobs
+2024-12-11 02:09:46 - INFO - -->Thread id: 8125128384. From 0.00 to 0.79
+2024-12-11 02:09:46 - INFO - -->Thread id: 8125128384. From 0.79 to 1.57
+2024-12-11 02:09:46 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:46 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:46 - CRITICAL - End processors. 2 jobs. 0.36 seconds.
+2024-12-11 02:09:46 - CRITICAL - Begin threads: 3 jobs
+2024-12-11 02:09:46 - INFO - -->Thread id: 6112735232. From 0.00 to 0.52
+2024-12-11 02:09:46 - INFO - -->Thread id: 6129561600. From 0.52 to 1.05
+2024-12-11 02:09:46 - INFO - -->Thread id: 6146387968. From 1.05 to 1.57
+2024-12-11 02:09:46 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:46 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:46 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:46 - CRITICAL - End threads. 3 jobs. 0.58 seconds.
+2024-12-11 02:09:46 - CRITICAL - Begin processors: 3 jobs
+2024-12-11 02:09:46 - INFO - -->Thread id: 8125128384. From 0.00 to 0.52
+2024-12-11 02:09:46 - INFO - -->Thread id: 8125128384. From 0.52 to 1.05
+2024-12-11 02:09:46 - INFO - -->Thread id: 8125128384. From 1.05 to 1.57
+2024-12-11 02:09:47 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:47 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:47 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:47 - CRITICAL - End processors. 3 jobs. 0.25 seconds.
+2024-12-11 02:09:47 - CRITICAL - Begin threads: 4 jobs
+2024-12-11 02:09:47 - INFO - -->Thread id: 6112735232. From 0.00 to 0.39
+2024-12-11 02:09:47 - INFO - -->Thread id: 6129561600. From 0.39 to 0.79
+2024-12-11 02:09:47 - INFO - -->Thread id: 6146387968. From 0.79 to 1.18
+2024-12-11 02:09:47 - INFO - -->Thread id: 6163214336. From 1.18 to 1.57
+2024-12-11 02:09:47 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:47 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:47 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:47 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:47 - CRITICAL - End threads. 4 jobs. 0.58 seconds.
+2024-12-11 02:09:47 - CRITICAL - Begin processors: 4 jobs
+2024-12-11 02:09:47 - INFO - -->Thread id: 8125128384. From 0.00 to 0.39
+2024-12-11 02:09:47 - INFO - -->Thread id: 8125128384. From 0.39 to 0.79
+2024-12-11 02:09:47 - INFO - -->Thread id: 8125128384. From 0.79 to 1.18
+2024-12-11 02:09:47 - INFO - -->Thread id: 8125128384. From 1.18 to 1.57
+2024-12-11 02:09:47 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:47 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:47 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:47 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:47 - CRITICAL - End processors. 4 jobs. 0.20 seconds.
+2024-12-11 02:09:47 - CRITICAL - Begin threads: 5 jobs
+2024-12-11 02:09:47 - INFO - -->Thread id: 6112735232. From 0.00 to 0.31
+2024-12-11 02:09:48 - INFO - -->Thread id: 6129561600. From 0.31 to 0.63
+2024-12-11 02:09:48 - INFO - -->Thread id: 6146387968. From 0.63 to 0.94
+2024-12-11 02:09:48 - INFO - -->Thread id: 6163214336. From 0.94 to 1.26
+2024-12-11 02:09:48 - INFO - -->Thread id: 6180040704. From 1.26 to 1.57
+2024-12-11 02:09:48 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:48 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:48 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:48 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:48 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:48 - CRITICAL - End threads. 5 jobs. 0.58 seconds.
+2024-12-11 02:09:48 - CRITICAL - Begin processors: 5 jobs
+2024-12-11 02:09:48 - INFO - -->Thread id: 8125128384. From 0.00 to 0.31
+2024-12-11 02:09:48 - INFO - -->Thread id: 8125128384. From 0.31 to 0.63
+2024-12-11 02:09:48 - INFO - -->Thread id: 8125128384. From 0.63 to 0.94
+2024-12-11 02:09:48 - INFO - -->Thread id: 8125128384. From 0.94 to 1.26
+2024-12-11 02:09:48 - INFO - -->Thread id: 8125128384. From 1.26 to 1.57
+2024-12-11 02:09:48 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:48 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:48 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:48 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:48 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:48 - CRITICAL - End processors. 5 jobs. 0.18 seconds.
+2024-12-11 02:09:48 - CRITICAL - Begin threads: 6 jobs
+2024-12-11 02:09:48 - INFO - -->Thread id: 6112735232. From 0.00 to 0.26
+2024-12-11 02:09:48 - INFO - -->Thread id: 6129561600. From 0.26 to 0.52
+2024-12-11 02:09:48 - INFO - -->Thread id: 6146387968. From 0.52 to 0.79
+2024-12-11 02:09:48 - INFO - -->Thread id: 6163214336. From 0.79 to 1.05
+2024-12-11 02:09:48 - INFO - -->Thread id: 6180040704. From 1.05 to 1.31
+2024-12-11 02:09:48 - INFO - -->Thread id: 6196867072. From 1.31 to 1.57
+2024-12-11 02:09:49 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:49 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:49 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:49 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:49 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:49 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:49 - CRITICAL - End threads. 6 jobs. 0.58 seconds.
+2024-12-11 02:09:49 - CRITICAL - Begin processors: 6 jobs
+2024-12-11 02:09:49 - INFO - -->Thread id: 8125128384. From 0.00 to 0.26
+2024-12-11 02:09:49 - INFO - -->Thread id: 8125128384. From 0.26 to 0.52
+2024-12-11 02:09:49 - INFO - -->Thread id: 8125128384. From 0.52 to 0.79
+2024-12-11 02:09:49 - INFO - -->Thread id: 8125128384. From 0.79 to 1.05
+2024-12-11 02:09:49 - INFO - -->Thread id: 8125128384. From 1.05 to 1.31
+2024-12-11 02:09:49 - INFO - -->Thread id: 8125128384. From 1.31 to 1.57
+2024-12-11 02:09:49 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:49 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:49 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:49 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:49 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:49 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:49 - CRITICAL - End processors. 6 jobs. 0.16 seconds.
+2024-12-11 02:09:49 - CRITICAL - Begin threads: 7 jobs
+2024-12-11 02:09:49 - INFO - -->Thread id: 6112735232. From 0.00 to 0.22
+2024-12-11 02:09:49 - INFO - -->Thread id: 6129561600. From 0.22 to 0.45
+2024-12-11 02:09:49 - INFO - -->Thread id: 6146387968. From 0.45 to 0.67
+2024-12-11 02:09:49 - INFO - -->Thread id: 6163214336. From 0.67 to 0.90
+2024-12-11 02:09:49 - INFO - -->Thread id: 6180040704. From 0.90 to 1.12
+2024-12-11 02:09:49 - INFO - -->Thread id: 6196867072. From 1.12 to 1.35
+2024-12-11 02:09:49 - INFO - -->Thread id: 6213693440. From 1.35 to 1.57
+2024-12-11 02:09:49 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:49 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:50 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:50 - INFO - <--Thread id: 6213693440
+2024-12-11 02:09:50 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:50 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:50 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:50 - CRITICAL - End threads. 7 jobs. 0.58 seconds.
+2024-12-11 02:09:50 - CRITICAL - Begin processors: 7 jobs
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.00 to 0.22
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.22 to 0.45
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.45 to 0.67
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.67 to 0.90
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.90 to 1.12
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 1.12 to 1.35
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 1.35 to 1.57
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - CRITICAL - End processors. 7 jobs. 0.16 seconds.
+2024-12-11 02:09:50 - CRITICAL - Begin threads: 8 jobs
+2024-12-11 02:09:50 - INFO - -->Thread id: 6112735232. From 0.00 to 0.20
+2024-12-11 02:09:50 - INFO - -->Thread id: 6129561600. From 0.20 to 0.39
+2024-12-11 02:09:50 - INFO - -->Thread id: 6146387968. From 0.39 to 0.59
+2024-12-11 02:09:50 - INFO - -->Thread id: 6163214336. From 0.59 to 0.79
+2024-12-11 02:09:50 - INFO - -->Thread id: 6180040704. From 0.79 to 0.98
+2024-12-11 02:09:50 - INFO - -->Thread id: 6196867072. From 0.98 to 1.18
+2024-12-11 02:09:50 - INFO - -->Thread id: 6213693440. From 1.18 to 1.37
+2024-12-11 02:09:50 - INFO - -->Thread id: 6230519808. From 1.37 to 1.57
+2024-12-11 02:09:50 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:50 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:50 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:50 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:50 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:50 - INFO - <--Thread id: 6213693440
+2024-12-11 02:09:50 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:50 - INFO - <--Thread id: 6230519808
+2024-12-11 02:09:50 - CRITICAL - End threads. 8 jobs. 0.58 seconds.
+2024-12-11 02:09:50 - CRITICAL - Begin processors: 8 jobs
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.00 to 0.20
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.20 to 0.39
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.39 to 0.59
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.59 to 0.79
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.79 to 0.98
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 0.98 to 1.18
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 1.18 to 1.37
+2024-12-11 02:09:50 - INFO - -->Thread id: 8125128384. From 1.37 to 1.57
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:50 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - CRITICAL - End processors. 8 jobs. 0.16 seconds.
+2024-12-11 02:09:51 - CRITICAL - Begin threads: 9 jobs
+2024-12-11 02:09:51 - INFO - -->Thread id: 6112735232. From 0.00 to 0.17
+2024-12-11 02:09:51 - INFO - -->Thread id: 6129561600. From 0.17 to 0.35
+2024-12-11 02:09:51 - INFO - -->Thread id: 6146387968. From 0.35 to 0.52
+2024-12-11 02:09:51 - INFO - -->Thread id: 6163214336. From 0.52 to 0.70
+2024-12-11 02:09:51 - INFO - -->Thread id: 6180040704. From 0.70 to 0.87
+2024-12-11 02:09:51 - INFO - -->Thread id: 6196867072. From 0.87 to 1.05
+2024-12-11 02:09:51 - INFO - -->Thread id: 6213693440. From 1.05 to 1.22
+2024-12-11 02:09:51 - INFO - -->Thread id: 6230519808. From 1.22 to 1.40
+2024-12-11 02:09:51 - INFO - -->Thread id: 6247346176. From 1.40 to 1.57
+2024-12-11 02:09:51 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:51 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:51 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:51 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:51 - INFO - <--Thread id: 6230519808
+2024-12-11 02:09:51 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:51 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:51 - INFO - <--Thread id: 6213693440
+2024-12-11 02:09:51 - INFO - <--Thread id: 6247346176
+2024-12-11 02:09:51 - CRITICAL - End threads. 9 jobs. 0.58 seconds.
+2024-12-11 02:09:51 - CRITICAL - Begin processors: 9 jobs
+2024-12-11 02:09:51 - INFO - -->Thread id: 8125128384. From 0.00 to 0.17
+2024-12-11 02:09:51 - INFO - -->Thread id: 8125128384. From 0.17 to 0.35
+2024-12-11 02:09:51 - INFO - -->Thread id: 8125128384. From 0.35 to 0.52
+2024-12-11 02:09:51 - INFO - -->Thread id: 8125128384. From 0.52 to 0.70
+2024-12-11 02:09:51 - INFO - -->Thread id: 8125128384. From 0.70 to 0.87
+2024-12-11 02:09:51 - INFO - -->Thread id: 8125128384. From 0.87 to 1.05
+2024-12-11 02:09:51 - INFO - -->Thread id: 8125128384. From 1.05 to 1.22
+2024-12-11 02:09:51 - INFO - -->Thread id: 8125128384. From 1.22 to 1.40
+2024-12-11 02:09:51 - INFO - -->Thread id: 8125128384. From 1.40 to 1.57
+2024-12-11 02:09:51 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:51 - CRITICAL - End processors. 9 jobs. 0.17 seconds.
+2024-12-11 02:09:51 - CRITICAL - Begin threads: 10 jobs
+2024-12-11 02:09:51 - INFO - -->Thread id: 6112735232. From 0.00 to 0.16
+2024-12-11 02:09:51 - INFO - -->Thread id: 6129561600. From 0.16 to 0.31
+2024-12-11 02:09:51 - INFO - -->Thread id: 6146387968. From 0.31 to 0.47
+2024-12-11 02:09:51 - INFO - -->Thread id: 6163214336. From 0.47 to 0.63
+2024-12-11 02:09:51 - INFO - -->Thread id: 6180040704. From 0.63 to 0.79
+2024-12-11 02:09:51 - INFO - -->Thread id: 6196867072. From 0.79 to 0.94
+2024-12-11 02:09:51 - INFO - -->Thread id: 6213693440. From 0.94 to 1.10
+2024-12-11 02:09:52 - INFO - -->Thread id: 6230519808. From 1.10 to 1.26
+2024-12-11 02:09:52 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:52 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:52 - INFO - -->Thread id: 6146387968. From 1.26 to 1.41
+2024-12-11 02:09:52 - INFO - -->Thread id: 6112735232. From 1.41 to 1.57
+2024-12-11 02:09:52 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:52 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:52 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:52 - INFO - <--Thread id: 6213693440
+2024-12-11 02:09:52 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:52 - INFO - <--Thread id: 6230519808
+2024-12-11 02:09:52 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:52 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:52 - CRITICAL - End threads. 10 jobs. 0.58 seconds.
+2024-12-11 02:09:52 - CRITICAL - Begin processors: 10 jobs
+2024-12-11 02:09:52 - INFO - -->Thread id: 8125128384. From 0.00 to 0.16
+2024-12-11 02:09:52 - INFO - -->Thread id: 8125128384. From 0.16 to 0.31
+2024-12-11 02:09:52 - INFO - -->Thread id: 8125128384. From 0.31 to 0.47
+2024-12-11 02:09:52 - INFO - -->Thread id: 8125128384. From 0.47 to 0.63
+2024-12-11 02:09:52 - INFO - -->Thread id: 8125128384. From 0.63 to 0.79
+2024-12-11 02:09:52 - INFO - -->Thread id: 8125128384. From 0.79 to 0.94
+2024-12-11 02:09:52 - INFO - -->Thread id: 8125128384. From 0.94 to 1.10
+2024-12-11 02:09:52 - INFO - -->Thread id: 8125128384. From 1.10 to 1.26
+2024-12-11 02:09:52 - INFO - -->Thread id: 8125128384. From 1.26 to 1.41
+2024-12-11 02:09:52 - INFO - -->Thread id: 8125128384. From 1.41 to 1.57
+2024-12-11 02:09:52 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:52 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:52 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:52 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:52 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:52 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:52 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:52 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:52 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:52 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:52 - CRITICAL - End processors. 10 jobs. 0.18 seconds.
+2024-12-11 02:09:52 - CRITICAL - Begin threads: 11 jobs
+2024-12-11 02:09:52 - INFO - -->Thread id: 6112735232. From 0.00 to 0.14
+2024-12-11 02:09:52 - INFO - -->Thread id: 6129561600. From 0.14 to 0.29
+2024-12-11 02:09:52 - INFO - -->Thread id: 6146387968. From 0.29 to 0.43
+2024-12-11 02:09:52 - INFO - -->Thread id: 6163214336. From 0.43 to 0.57
+2024-12-11 02:09:52 - INFO - -->Thread id: 6180040704. From 0.57 to 0.71
+2024-12-11 02:09:52 - INFO - -->Thread id: 6196867072. From 0.71 to 0.86
+2024-12-11 02:09:52 - INFO - -->Thread id: 6213693440. From 0.86 to 1.00
+2024-12-11 02:09:52 - INFO - -->Thread id: 6230519808. From 1.00 to 1.14
+2024-12-11 02:09:52 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:52 - INFO - -->Thread id: 6247346176. From 1.14 to 1.29
+2024-12-11 02:09:52 - INFO - -->Thread id: 6264172544. From 1.29 to 1.43
+2024-12-11 02:09:52 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:52 - INFO - -->Thread id: 6112735232. From 1.43 to 1.57
+2024-12-11 02:09:52 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:52 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:53 - INFO - <--Thread id: 6247346176
+2024-12-11 02:09:53 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:53 - INFO - <--Thread id: 6213693440
+2024-12-11 02:09:53 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:53 - INFO - <--Thread id: 6230519808
+2024-12-11 02:09:53 - INFO - <--Thread id: 6264172544
+2024-12-11 02:09:53 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:53 - CRITICAL - End threads. 11 jobs. 0.58 seconds.
+2024-12-11 02:09:53 - CRITICAL - Begin processors: 11 jobs
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.00 to 0.14
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.14 to 0.29
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.29 to 0.43
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.43 to 0.57
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.57 to 0.71
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.71 to 0.86
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.86 to 1.00
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 1.00 to 1.14
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 1.14 to 1.29
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 1.29 to 1.43
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 1.43 to 1.57
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:53 - CRITICAL - End processors. 11 jobs. 0.19 seconds.
+2024-12-11 02:09:53 - CRITICAL - Begin threads: 12 jobs
+2024-12-11 02:09:53 - INFO - -->Thread id: 6112735232. From 0.00 to 0.13
+2024-12-11 02:09:53 - INFO - -->Thread id: 6129561600. From 0.13 to 0.26
+2024-12-11 02:09:53 - INFO - -->Thread id: 6146387968. From 0.26 to 0.39
+2024-12-11 02:09:53 - INFO - -->Thread id: 6163214336. From 0.39 to 0.52
+2024-12-11 02:09:53 - INFO - -->Thread id: 6180040704. From 0.52 to 0.65
+2024-12-11 02:09:53 - INFO - -->Thread id: 6196867072. From 0.65 to 0.79
+2024-12-11 02:09:53 - INFO - -->Thread id: 6213693440. From 0.79 to 0.92
+2024-12-11 02:09:53 - INFO - -->Thread id: 6230519808. From 0.92 to 1.05
+2024-12-11 02:09:53 - INFO - -->Thread id: 6247346176. From 1.05 to 1.18
+2024-12-11 02:09:53 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:53 - INFO - -->Thread id: 6264172544. From 1.18 to 1.31
+2024-12-11 02:09:53 - INFO - -->Thread id: 6146387968. From 1.31 to 1.44
+2024-12-11 02:09:53 - INFO - -->Thread id: 6280998912. From 1.44 to 1.57
+2024-12-11 02:09:53 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:53 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:53 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:53 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:53 - INFO - <--Thread id: 6213693440
+2024-12-11 02:09:53 - INFO - <--Thread id: 6230519808
+2024-12-11 02:09:53 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:53 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:53 - INFO - <--Thread id: 6247346176
+2024-12-11 02:09:53 - INFO - <--Thread id: 6264172544
+2024-12-11 02:09:53 - INFO - <--Thread id: 6280998912
+2024-12-11 02:09:53 - CRITICAL - End threads. 12 jobs. 0.58 seconds.
+2024-12-11 02:09:53 - CRITICAL - Begin processors: 12 jobs
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.00 to 0.13
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.13 to 0.26
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.26 to 0.39
+2024-12-11 02:09:53 - INFO - -->Thread id: 8125128384. From 0.39 to 0.52
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.52 to 0.65
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.65 to 0.79
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.79 to 0.92
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.92 to 1.05
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 1.05 to 1.18
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 1.18 to 1.31
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 1.31 to 1.44
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 1.44 to 1.57
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - CRITICAL - End processors. 12 jobs. 0.21 seconds.
+2024-12-11 02:09:54 - CRITICAL - Begin threads: 13 jobs
+2024-12-11 02:09:54 - INFO - -->Thread id: 6112735232. From 0.00 to 0.12
+2024-12-11 02:09:54 - INFO - -->Thread id: 6129561600. From 0.12 to 0.24
+2024-12-11 02:09:54 - INFO - -->Thread id: 6146387968. From 0.24 to 0.36
+2024-12-11 02:09:54 - INFO - -->Thread id: 6163214336. From 0.36 to 0.48
+2024-12-11 02:09:54 - INFO - -->Thread id: 6180040704. From 0.48 to 0.60
+2024-12-11 02:09:54 - INFO - -->Thread id: 6196867072. From 0.60 to 0.72
+2024-12-11 02:09:54 - INFO - -->Thread id: 6213693440. From 0.72 to 0.85
+2024-12-11 02:09:54 - INFO - -->Thread id: 6230519808. From 0.85 to 0.97
+2024-12-11 02:09:54 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:54 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:54 - INFO - -->Thread id: 6247346176. From 0.97 to 1.09
+2024-12-11 02:09:54 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:54 - INFO - -->Thread id: 6146387968. From 1.09 to 1.21
+2024-12-11 02:09:54 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:54 - INFO - -->Thread id: 6112735232. From 1.21 to 1.33
+2024-12-11 02:09:54 - INFO - -->Thread id: 6264172544. From 1.33 to 1.45
+2024-12-11 02:09:54 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:54 - INFO - -->Thread id: 6129561600. From 1.45 to 1.57
+2024-12-11 02:09:54 - INFO - <--Thread id: 6230519808
+2024-12-11 02:09:54 - INFO - <--Thread id: 6213693440
+2024-12-11 02:09:54 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:54 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:54 - INFO - <--Thread id: 6247346176
+2024-12-11 02:09:54 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:54 - INFO - <--Thread id: 6264172544
+2024-12-11 02:09:54 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:54 - CRITICAL - End threads. 13 jobs. 0.58 seconds.
+2024-12-11 02:09:54 - CRITICAL - Begin processors: 13 jobs
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.00 to 0.12
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.12 to 0.24
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.24 to 0.36
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.36 to 0.48
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.48 to 0.60
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.60 to 0.72
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.72 to 0.85
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.85 to 0.97
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 0.97 to 1.09
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 1.09 to 1.21
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 1.21 to 1.33
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 1.33 to 1.45
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - -->Thread id: 8125128384. From 1.45 to 1.57
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:54 - CRITICAL - End processors. 13 jobs. 0.23 seconds.
+2024-12-11 02:09:54 - CRITICAL - Begin threads: 14 jobs
+2024-12-11 02:09:54 - INFO - -->Thread id: 6112735232. From 0.00 to 0.11
+2024-12-11 02:09:54 - INFO - -->Thread id: 6129561600. From 0.11 to 0.22
+2024-12-11 02:09:55 - INFO - -->Thread id: 6146387968. From 0.22 to 0.34
+2024-12-11 02:09:55 - INFO - -->Thread id: 6163214336. From 0.34 to 0.45
+2024-12-11 02:09:55 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:55 - INFO - -->Thread id: 6180040704. From 0.45 to 0.56
+2024-12-11 02:09:55 - INFO - -->Thread id: 6196867072. From 0.56 to 0.67
+2024-12-11 02:09:55 - INFO - -->Thread id: 6213693440. From 0.67 to 0.79
+2024-12-11 02:09:55 - INFO - -->Thread id: 6230519808. From 0.79 to 0.90
+2024-12-11 02:09:55 - INFO - -->Thread id: 6247346176. From 0.90 to 1.01
+2024-12-11 02:09:55 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:55 - INFO - -->Thread id: 6264172544. From 1.01 to 1.12
+2024-12-11 02:09:55 - INFO - -->Thread id: 6280998912. From 1.12 to 1.23
+2024-12-11 02:09:55 - INFO - -->Thread id: 6297825280. From 1.23 to 1.35
+2024-12-11 02:09:55 - INFO - -->Thread id: 6314651648. From 1.35 to 1.46
+2024-12-11 02:09:55 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:55 - INFO - -->Thread id: 6112735232. From 1.46 to 1.57
+2024-12-11 02:09:55 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:55 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:55 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:55 - INFO - <--Thread id: 6230519808
+2024-12-11 02:09:55 - INFO - <--Thread id: 6213693440
+2024-12-11 02:09:55 - INFO - <--Thread id: 6247346176
+2024-12-11 02:09:55 - INFO - <--Thread id: 6264172544
+2024-12-11 02:09:55 - INFO - <--Thread id: 6280998912
+2024-12-11 02:09:55 - INFO - <--Thread id: 6297825280
+2024-12-11 02:09:55 - INFO - <--Thread id: 6314651648
+2024-12-11 02:09:55 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:55 - CRITICAL - End threads. 14 jobs. 0.58 seconds.
+2024-12-11 02:09:55 - CRITICAL - Begin processors: 14 jobs
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 0.00 to 0.11
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 0.11 to 0.22
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 0.22 to 0.34
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 0.34 to 0.45
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 0.45 to 0.56
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 0.56 to 0.67
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 0.67 to 0.79
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 0.79 to 0.90
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 0.90 to 1.01
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 1.01 to 1.12
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 1.12 to 1.23
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 1.23 to 1.35
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 1.35 to 1.46
+2024-12-11 02:09:55 - INFO - -->Thread id: 8125128384. From 1.46 to 1.57
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:55 - CRITICAL - End processors. 14 jobs. 0.21 seconds.
+2024-12-11 02:09:55 - CRITICAL - Begin threads: 15 jobs
+2024-12-11 02:09:55 - INFO - -->Thread id: 6112735232. From 0.00 to 0.10
+2024-12-11 02:09:55 - INFO - -->Thread id: 6129561600. From 0.10 to 0.21
+2024-12-11 02:09:55 - INFO - -->Thread id: 6146387968. From 0.21 to 0.31
+2024-12-11 02:09:55 - INFO - -->Thread id: 6163214336. From 0.31 to 0.42
+2024-12-11 02:09:55 - INFO - -->Thread id: 6180040704. From 0.42 to 0.52
+2024-12-11 02:09:55 - INFO - -->Thread id: 6196867072. From 0.52 to 0.63
+2024-12-11 02:09:55 - INFO - -->Thread id: 6213693440. From 0.63 to 0.73
+2024-12-11 02:09:55 - INFO - -->Thread id: 6230519808. From 0.73 to 0.84
+2024-12-11 02:09:55 - INFO - -->Thread id: 6247346176. From 0.84 to 0.94
+2024-12-11 02:09:55 - INFO - -->Thread id: 6264172544. From 0.94 to 1.05
+2024-12-11 02:09:55 - INFO - -->Thread id: 6280998912. From 1.05 to 1.15
+2024-12-11 02:09:55 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:55 - INFO - -->Thread id: 6297825280. From 1.15 to 1.26
+2024-12-11 02:09:55 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:55 - INFO - -->Thread id: 6314651648. From 1.26 to 1.36
+2024-12-11 02:09:55 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:56 - INFO - -->Thread id: 6331478016. From 1.36 to 1.47
+2024-12-11 02:09:56 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:56 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:56 - INFO - <--Thread id: 6213693440
+2024-12-11 02:09:56 - INFO - -->Thread id: 6348304384. From 1.47 to 1.57
+2024-12-11 02:09:56 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:56 - INFO - <--Thread id: 6247346176
+2024-12-11 02:09:56 - INFO - <--Thread id: 6230519808
+2024-12-11 02:09:56 - INFO - <--Thread id: 6280998912
+2024-12-11 02:09:56 - INFO - <--Thread id: 6264172544
+2024-12-11 02:09:56 - INFO - <--Thread id: 6297825280
+2024-12-11 02:09:56 - INFO - <--Thread id: 6314651648
+2024-12-11 02:09:56 - INFO - <--Thread id: 6331478016
+2024-12-11 02:09:56 - INFO - <--Thread id: 6348304384
+2024-12-11 02:09:56 - CRITICAL - End threads. 15 jobs. 0.59 seconds.
+2024-12-11 02:09:56 - CRITICAL - Begin processors: 15 jobs
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 0.00 to 0.10
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 0.10 to 0.21
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 0.21 to 0.31
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 0.31 to 0.42
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 0.42 to 0.52
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 0.52 to 0.63
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 0.63 to 0.73
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 0.73 to 0.84
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 0.84 to 0.94
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 0.94 to 1.05
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 1.05 to 1.15
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 1.15 to 1.26
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 1.26 to 1.36
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 1.36 to 1.47
+2024-12-11 02:09:56 - INFO - -->Thread id: 8125128384. From 1.47 to 1.57
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:56 - CRITICAL - End processors. 15 jobs. 0.21 seconds.
+2024-12-11 02:09:56 - CRITICAL - Begin threads: 16 jobs
+2024-12-11 02:09:56 - INFO - -->Thread id: 6112735232. From 0.00 to 0.10
+2024-12-11 02:09:56 - INFO - -->Thread id: 6129561600. From 0.10 to 0.20
+2024-12-11 02:09:56 - INFO - -->Thread id: 6146387968. From 0.20 to 0.29
+2024-12-11 02:09:56 - INFO - -->Thread id: 6163214336. From 0.29 to 0.39
+2024-12-11 02:09:56 - INFO - -->Thread id: 6180040704. From 0.39 to 0.49
+2024-12-11 02:09:56 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:56 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:56 - INFO - -->Thread id: 6129561600. From 0.49 to 0.59
+2024-12-11 02:09:56 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:56 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:56 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:56 - INFO - -->Thread id: 6196867072. From 0.59 to 0.69
+2024-12-11 02:09:56 - INFO - -->Thread id: 6163214336. From 0.69 to 0.79
+2024-12-11 02:09:56 - INFO - -->Thread id: 6112735232. From 0.79 to 0.88
+2024-12-11 02:09:56 - INFO - -->Thread id: 6230519808. From 0.88 to 0.98
+2024-12-11 02:09:56 - INFO - -->Thread id: 6247346176. From 0.98 to 1.08
+2024-12-11 02:09:56 - INFO - -->Thread id: 6213693440. From 1.08 to 1.18
+2024-12-11 02:09:56 - INFO - -->Thread id: 6264172544. From 1.18 to 1.28
+2024-12-11 02:09:56 - INFO - <--Thread id: 6129561600
+2024-12-11 02:09:56 - INFO - -->Thread id: 6280998912. From 1.28 to 1.37
+2024-12-11 02:09:56 - INFO - -->Thread id: 6146387968. From 1.37 to 1.47
+2024-12-11 02:09:56 - INFO - -->Thread id: 6180040704. From 1.47 to 1.57
+2024-12-11 02:09:56 - INFO - <--Thread id: 6196867072
+2024-12-11 02:09:56 - INFO - <--Thread id: 6163214336
+2024-12-11 02:09:56 - INFO - <--Thread id: 6230519808
+2024-12-11 02:09:57 - INFO - <--Thread id: 6213693440
+2024-12-11 02:09:57 - INFO - <--Thread id: 6247346176
+2024-12-11 02:09:57 - INFO - <--Thread id: 6112735232
+2024-12-11 02:09:57 - INFO - <--Thread id: 6264172544
+2024-12-11 02:09:57 - INFO - <--Thread id: 6280998912
+2024-12-11 02:09:57 - INFO - <--Thread id: 6180040704
+2024-12-11 02:09:57 - INFO - <--Thread id: 6146387968
+2024-12-11 02:09:57 - CRITICAL - End threads. 16 jobs. 0.59 seconds.
+2024-12-11 02:09:57 - CRITICAL - Begin processors: 16 jobs
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.00 to 0.10
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.10 to 0.20
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.20 to 0.29
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.29 to 0.39
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.39 to 0.49
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.49 to 0.59
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.59 to 0.69
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.69 to 0.79
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.79 to 0.88
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.88 to 0.98
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 0.98 to 1.08
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 1.08 to 1.18
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 1.18 to 1.28
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 1.28 to 1.37
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 1.37 to 1.47
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - -->Thread id: 8125128384. From 1.47 to 1.57
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - INFO - <--Thread id: 8125128384
+2024-12-11 02:09:57 - CRITICAL - End processors. 16 jobs. 0.23 seconds.
