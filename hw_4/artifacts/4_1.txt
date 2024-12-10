@@ -1,0 +1,26 @@
+Runs: 10
+Synchronous execution time: 0.06 seconds
+Threaded execution time: 0.06 seconds
+Multiprocess execution time: 0.09 seconds
+
+Runs: 50
+Synchronous execution time: 0.28 seconds
+Threaded execution time: 0.28 seconds
+Multiprocess execution time: 0.38 seconds
+
+Runs: 100
+Synchronous execution time: 0.56 seconds
+Threaded execution time: 0.60 seconds
+Multiprocess execution time: 0.80 seconds
+
+Runs: 200
+Synchronous execution time: 1.12 seconds
+Threaded execution time: 1.12 seconds
+Multiprocess execution time: 1.57 seconds
+
+Runs: 500
+Synchronous execution time: 2.89 seconds
+Threaded execution time: 2.87 seconds
+Multiprocess execution time: 3.84 seconds
+
+Processor: M1 Pro
